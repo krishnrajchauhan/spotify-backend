@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "69be356ac9f32c63c921bc3a"
+  },
+  "username": "Kunal",
+  "email": "kunal123@gmail.com",
+  "password": "$2b$10$N1nKK..a3QC8J9JmHBsgce0A5uj0ThO.TbXOpwTnw8SDkeLJCteQi",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69be396973b388c1170c6035"
+  },
+  "username": "Krishnraj",
+  "email": "krishna@gmail.com",
+  "password": "$2b$10$yLBFPyrCqwrBLR1lDethe.NlsQUn.Y8xiW7uCzKOS/sqTgOceirJ2",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69be76f93da9eaa14cf289e7"
+  },
+  "username": "Zeel",
+  "email": "zeel@gmail.com",
+  "password": "$2b$10$Levzc9RDO4eV02U1mqPYXO0MWPtkKkl9ZGwAswvQ7770khYY3CVra",
+  "role": "artist",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69be789f427b79eba68dd8ad"
+  },
+  "username": "Parth",
+  "email": "parth@gmail.com",
+  "password": "$2b$10$u3Nbocaq9wOHzCBpgg475ub3Onk7Y6TUJGxyLmQ7KGfeTVT8OYGGK",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bf6e322e668c96cdc2785f"
+  },
+  "username": "Rajveer",
+  "email": "rajveer@gmail.com",
+  "password": "$2b$10$wSlKnqCCkqlTY6o1h367kO7DJZk9EdiUgRfrDKjOMqMIAGGt.uoa6",
+  "role": "artist",
+  "__v": 0
+}]

@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "69be777f427b79eba68dd8aa"
+  },
+  "uri": "https://ik.imagekit.io/pjay4iqev/yt-complete-backend/music/music_1774090104605_oykjarTZf",
+  "title": "Energetic Music",
+  "artist": {
+    "$oid": "69be76f93da9eaa14cf289e7"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bf6e7c2e668c96cdc27862"
+  },
+  "uri": "https://ik.imagekit.io/pjay4iqev/yt-complete-backend/music/music_1774153329780_1GAzWE6Df",
+  "title": "English Song",
+  "artist": {
+    "$oid": "69bf6e322e668c96cdc2785f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69bf9520bf41e6b254f020d8"
+  },
+  "uri": "https://ik.imagekit.io/pjay4iqev/yt-complete-backend/music/music_1774163219864_6cIY61XwJ",
+  "title": "Hook up ",
+  "artist": {
+    "$oid": "69bf6e322e668c96cdc2785f"
+  },
+  "__v": 0
+}]
