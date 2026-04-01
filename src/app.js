@@ -12,7 +12,7 @@ app.use("/api/auth", authRoutes);
 app.use("/api/music", musicRoutes);
 
 app.get("/", (req, res) => {
-  res.send("Welcome to the Music App API");
+  res.send("Welcome to the Music App API | Test APIs using Postman and export the collection to share with others.");
 });
 
 module.exports = app;
