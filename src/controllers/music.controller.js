@@ -53,7 +53,7 @@ async function getAllMusics(req, res)  {
     const musics = await musicModel
         .find()
         .limit(2)
-        .populate("artist");
+        .populate("artist", "-password");
 
     res.status(200).json({
         message: "Musics fetched successfully.",
