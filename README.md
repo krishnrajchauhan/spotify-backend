@@ -4,6 +4,24 @@ A fully functional backend system for a Spotify-like application built with Node
 
 ---
 
+## 🌐 Live API
+
+🔗 [Live API](https://spotify-backend-hecd.onrender.com)
+
+🔗 Base URL:
+https://spotify-backend-hecd.onrender.com
+
+### 📌 How to Test
+
+Use Postman and import the provided collection.
+
+1. Run Login API to get token  
+2. Use Bearer Token for protected routes  
+
+### 🔑 Example Endpoint
+
+GET https://spotify-backend-hecd.onrender.com/api/music
+
 ## 🚀 Features
 
 * 🔐 JWT Authentication (Login / Register)
@@ -84,6 +102,28 @@ You can find the complete API collection here:
 ```
 
 👉 Import this file into Postman to test all APIs easily.
+
+## 📬 How to Test APIs
+
+1. Download the Postman collection from `/postman/spotify-api.json`
+
+2. Open Postman
+
+3. Click **Import → Upload File** and select the JSON file
+
+4. Run the **Login API** first to get JWT token
+
+5. Copy the token
+
+6. For protected routes:
+   - Go to Authorization tab
+   - Select Bearer Token
+   - Paste your token
+
+7. Now you can test all APIs
+
+Base URL:
+https://spotify-backend-hecd.onrender.com
 
 ---
 
