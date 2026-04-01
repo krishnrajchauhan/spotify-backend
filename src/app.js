@@ -11,4 +11,8 @@ app.use(cookieParser());
 app.use("/api/auth", authRoutes);
 app.use("/api/music", musicRoutes);
 
+app.get("/", (req, res) => {
+  res.send("Welcome to the Music App API");
+});
+
 module.exports = app;
